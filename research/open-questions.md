@@ -10,5 +10,6 @@ These are research tasks, not confirmed diagnoses or instructions to modify the 
 6. Resolve the Quest/Venture connection without treating a name match as proof.
 7. Establish provenance before the Goodwill find and whether other machines survive.
 8. Assess reference-design similarities only after tracing the actual circuitry.
+9. How does the Humdinger coordinate the Z80’s RAM access with the MC6847’s display fetches? Trace address selection, buffering, clocks and any CPU wait or arbitration logic; establish whether memory is shared or separate. Do not assume an MC6883 is present or required.
 
 Convert individual questions to GitHub issues when the project is ready for contributions. Keep settled findings in the documents, with links to the discussion and evidence that established them.

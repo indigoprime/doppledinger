@@ -17,3 +17,34 @@ Source selection prepared 5 October 2026 from the existing project archive. This
 Nick's 2020 research history and the 2026 transfer/project status are his own accounts. The current status is dated; arrival is not recorded as complete.
 
 The initial public account intentionally omits speculative personal identifications and unverified company-history conclusions. The fuller private research pack remains available to the custodian for review.
+
+
+## Dr. Dobb’s Journal no. 80: contemporary expansion plans
+
+Michael Wiesenberg, “Of Interest,” Dr. Dobb’s Journal no. 80, June 1983, pp. 83–84. Page 83 contains Faire impressions; page 84 contains “A Real Humdinger” (Reader Service No. 107). Both printed pages were checked visually on 5 October 2026, superseding the earlier OCR-only qualification for this list.
+
+[Page 83](https://archive.org/details/1983-06-dr-dobbs-journal/page/n82/) · [Page 84](https://archive.org/details/1983-06-dr-dobbs-journal/page/n83/).
+
+These are contemporary reported offers and plans, not verified deliveries or demonstrated capabilities of the surviving machine. Prices are US dollars as printed; no delivery dates are supplied in this entry.
+
+| Expansion or software | Reported price |
+|---|---:|
+| 16K RAM | $39.95 |
+| 64K RAM | $99 |
+| Voice synthesizer | $69.95 |
+| Disk controller | $75 |
+| 5¼-inch disk drive | $210 |
+| CP/M | $79 |
+| Word processor | $45 |
+| Pascal | $59 |
+| 8088 | $119 |
+| 8088 BASIC ROM, stated as also required with the 8088 | $124.95 |
+| 8087 | $299 |
+
+Further items are listed without individual prices: travel case; graphics table (the printed wording); 80-by-24 video; user-defined graphics; real-time clock/calendar; editor/assembler; game cartridges and cassettes; extended BASIC; COBOL; Forth; C; Logo; and Pilot. The article reports a plan for ten new cartridge and cassette programs per month.
+
+The base machine is reported at $129, with 4K RAM, 8K BASIC ROM, eight-colour video, four-voice sound, a free game cartridge, RF modulation and parallel, serial, cassette, cartridge, joystick, expansion and EPROM interfaces. These remain reported specifications. The $129 is the article’s figure, distinct from the $129.95 advertisement.
+
+Page 83’s brief description associates the machine with CP/M; page 84 explicitly prices CP/M separately. Do not imply that CP/M was included with the base machine. The listed 8088 and 8087 do not establish IBM PC compatibility, nor does the entry identify an operating system for the 8088. Preserve “graphics table” rather than silently changing it to “tablet.”
+
+The list is evidence of the intended expansion range. Original flyers, manuals, software and hardware are still needed to establish implementation and shipment.
