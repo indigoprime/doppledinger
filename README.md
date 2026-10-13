@@ -1,5 +1,7 @@
 # Doppledinger
 
+[![Humdinger logo — reconstructed from the surviving badge](artwork/humdinger/humdinger-rectangle.svg)](artwork/humdinger/README.md)
+
 Preservation, research and reconstruction of the **Humdinger computer**.
 
 The Humdinger was demonstrated by Venture Micro at the 1983 West Coast Computer Faire. In September 2026, Aarin (woodson600) shared photographs of a machine he had found at Goodwill, reopening a history previously known to this project mainly through magazine reports.
