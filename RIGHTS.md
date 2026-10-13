@@ -15,4 +15,8 @@ The two photographs in `docs/assets/` are by Aarin / woodson600, from the origin
 
 Historical magazines, manuals, logos and other third-party material retain their own rights. This package links to source publications and does not include the full magazine/research archive.
 
+## Reconstructed Humdinger badge — 13 October 2026
+
+The files in `artwork/humdinger/`, the matching banner in `docs/assets/humdinger-rectangle.svg`, and the downloadable artwork ZIP in `docs/downloads/` reconstruct the historical logo from Nick’s photographs. They are modern, AI-assisted reconstructions and adaptations, not recovered original production artwork. The historical name and logo retain any applicable third-party rights; the reconstructed logo assets are excluded from the project’s blanket MIT and CC BY grants. Original accompanying documentation follows the existing documentation licence.
+
 Shipping labels, tracking numbers, private contact details and correspondence are not part of this package.

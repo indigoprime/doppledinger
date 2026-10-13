@@ -6,11 +6,13 @@ The Humdinger was demonstrated by Venture Micro at the 1983 West Coast Computer 
 
 Nick Taylor began researching the Humdinger in 2020. Aarin's generosity has now made a physical preservation project possible.
 
-**Status, 5 October 2026:** the machine has shipped, with arrival expected on 7 October. Operation, firmware and the board's full configuration remain unverified. The first public account is now available.
+**Status, 13 October 2026:** the machine arrived on 8 October; Nick received it on 9 October and carried out a quick examination on 11 October. Detailed examination findings have not yet been added to the public record. Operation, firmware and the board's full configuration remain unverified. Reconstructed badge artwork and a rectangular banner/sticker adaptation are now available.
 
 ## Start here
 
 - [Visit the website](https://indigoprime.github.io/doppledinger/): the history, rediscovery and preservation story.
+- [Project timeline](research/project-timeline.md)
+- [Badge reconstruction and downloads](artwork/humdinger/README.md)
 - [Research and sources](research/sources.md)
 - [Hardware observations](research/hardware-observations.md)
 - [Open questions](research/open-questions.md)

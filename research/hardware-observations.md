@@ -1,6 +1,6 @@
 # Initial hardware observations
 
-Status: photo review only, 5 October 2026. No continuity measurements, power-up or ROM dump is recorded here.
+Status updated 13 October 2026: Nick carried out a quick examination on 11 October after receiving the machine on 9 October. Its arrival was on 8 October. Detailed findings from that examination have not yet been added here; the observations below remain the 5 October photo review. No continuity measurements, power-up or ROM dump is recorded here. See the [project timeline](project-timeline.md).
 
 | Item | Working observation | Evidence / qualification |
 |---|---|---|
